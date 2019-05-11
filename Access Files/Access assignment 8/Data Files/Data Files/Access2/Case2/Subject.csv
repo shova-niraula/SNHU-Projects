@@ -1,0 +1,25 @@
+SubjectID,Subject,Cost
+100,Flowcharts,40
+101,Pseudocode,40
+102,IPO charts,40
+103,Control structures,40
+104,Sequence structure,40
+105,Decision structure,60
+106,Repetition structure,60
+107,Functions,75
+108,Arrays,75
+109,Strings,75
+110,Files,75
+111,Classes and objects,75
+112,C++ level 1,100
+113,C++ level 2,100
+114,C++ level 3,125
+115,C++ level 4,150
+116,Java level 1,100
+117,Java level 2,100
+118,Java level 3,125
+119,Java level 4,150
+120,C# level 1,100
+121,C# level 2,100
+122,C# level 3,125
+123,C# level 4,150
